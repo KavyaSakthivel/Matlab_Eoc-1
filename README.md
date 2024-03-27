@@ -18,7 +18,7 @@
         <li>Image Manipulation (Scaling, Tinkering, and Generating)</li>
         <li>Langchain</li>
         <li>
-            <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face Logo" width="50">
+            <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face Logo" width="20">
             Hugging Face
         </li>
         <li>Git and GitHub for SCM</li>
